@@ -1,2 +1,2 @@
-# CS300-ABCU-Portfolio
+# CS 300 Portfolio
 Assignments and Projects from CS 300
